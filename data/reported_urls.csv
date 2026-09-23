@@ -1,0 +1,5 @@
+report_id,url,reported_at,reporter_type,account_age_days
+R-001,https://login-example-security.test,2026-09-22T10:00:00Z,user,2
+R-002,https://login-example-security.test,2026-09-22T10:15:00Z,user,2
+R-003,https://invoice-update.test/download,2026-09-22T11:00:00Z,automated,90
+R-004,https://account-verify.test/login,2026-09-22T12:00:00Z,user,1
