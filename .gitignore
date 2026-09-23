@@ -1,12 +1,7 @@
-# Local SQLite database
 abuseflow.db
-
-# Generated review-queue output
+.env
 data/review_queue.csv
 
 # Python cache files
 __pycache__/
 *.pyc
-
-# Local secrets
-.envgit status
